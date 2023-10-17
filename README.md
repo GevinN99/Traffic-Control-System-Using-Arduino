@@ -50,6 +50,10 @@ The Arduino code provided manages the traffic control system. Here's an overview
 
 - **Boom Gate Motor Control Functions:** There are several functions for controlling boom gate motors. The `boomGateMotorState()` function sets the direction and action of the boom gate motors based on the provided state.
 
+## Circuit Diagram
+
+![Circuit_Diagram](/Circuit_Diagram/1.jpg)
+
 ## Installation
 
 To run this project, follow these steps:
